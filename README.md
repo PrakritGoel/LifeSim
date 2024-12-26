@@ -1,4 +1,4 @@
-#Assignment 4 - The Game of Life
+# Assignment 4 - The Game of Life
 
 Our program runs the Game of Life simulation, given a starting universe. The Game of Life is a simulation where a potentially infinite, 2-D universe begins with a grid of cells, which are either alive or dead. Over the course of multiple generations (iterations), cells come to life or die in accordance with the following rules:
 	1) Any live cell with two or three live neighbors survives.
